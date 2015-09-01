@@ -2439,14 +2439,16 @@ var domains = {
   "darpa.mil": 1,
   "wtfpeople.com": 1,
   "1-apple.com.tw": 1,
-  "*.github.com": 1,
   "packagecontrol.io":1,
   "sublime.wbond.net":1,
   "wbond.net":1,
-  "*.twitter.com":1,
+  "twitter.com":1,
   "twitter.com":1,
   "docker.io":1,
-  "*.docker.io":1
+  "ipn.li":1,
+  "sublime.wbond.net":1,
+  "wbond.net":1,
+  "github.io":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
