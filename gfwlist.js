@@ -2448,7 +2448,19 @@ var domains = {
   "ipn.li":1,
   "sublime.wbond.net":1,
   "wbond.net":1,
-  "github.io":1
+  "github.io":1,
+  "stackoverflow.com":1,
+  "stackexchange.com":1,
+  "githubusercontent.com":1,
+  "githubapp.com":1,
+  "imgur.com":1,
+  "adzerk.net":1,
+  "scorecardresearch.com":1,
+  "quantserve.com":1,
+  "gravatar.com":1,
+  "sstatic.net":1,
+  "quora.com":1,
+  "gmail.com":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
