@@ -2509,7 +2509,8 @@ var domains = {
   "box.net":1,
   "one.com":1,
   "uservoice.com":1,
-  "do.co":1
+  "do.co":1,
+  "goo.gl":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
