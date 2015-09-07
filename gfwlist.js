@@ -2490,7 +2490,7 @@ var domains = {
   "googlescholar.com":1,
   "googlemail.com":1,
   "keyhole.com":1,
-  "www.zdnet.com":1,
+  "zdnet.com":1,
   "cbsistatic.com":1,
   "sharethrough.com":1,
   "t66y.com":1,
