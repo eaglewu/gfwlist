@@ -2510,7 +2510,12 @@ var domains = {
   "one.com":1,
   "uservoice.com":1,
   "do.co":1,
-  "goo.gl":1
+  "goo.gl":1,
+  "viidii.info":1,
+  "filesalon.com":1,
+  "sufile.com":1,
+  "heyzo.com":1,
+  "wp.com":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
