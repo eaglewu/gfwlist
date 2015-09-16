@@ -2515,7 +2515,16 @@ var domains = {
   "filesalon.com":1,
   "sufile.com":1,
   "heyzo.com":1,
-  "wp.com":1
+  "wp.com":1,
+  "name.com":1,
+  "getpocket.com":1,
+  "atlassian.com":1,
+  "cloudflare.com":1,
+  "blogblog.com":1,
+  "blogspot.jp":1,
+  "envato.com":1,
+  "w.org":1,
+  "mailchimp.com":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
