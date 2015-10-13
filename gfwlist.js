@@ -2446,8 +2446,6 @@ var domains = {
   "twitter.com":1,
   "docker.io":1,
   "ipn.li":1,
-  "sublime.wbond.net":1,
-  "wbond.net":1,
   "github.io":1,
   "stackoverflow.com":1,
   "stackexchange.com":1,
@@ -2524,7 +2522,26 @@ var domains = {
   "blogspot.jp":1,
   "envato.com":1,
   "w.org":1,
-  "mailchimp.com":1
+  "mailchimp.com":1,
+  "ladsp.com":1,
+  "aspnetcdn.com":1,
+  "vultr.com":1,
+  "readthedocs.org":1,
+  "getcomposer.org":1,
+  "vimeocdn.com":1,
+  "appaddict.org":1,
+  "livecoding.tv":1,
+  "inspectlet.com":1,
+  "laravel.com":1,
+  "bootswatch.com":1,
+  "shields.io":1,
+  "brew.sh":1,
+  "ggpht.com":1,
+  "hyper.sh":1,
+  "amazonaws.com":1,
+  "packagist.org":1,
+  "dd-wrt.com":1,
+  "bintray.com":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
