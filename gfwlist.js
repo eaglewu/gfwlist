@@ -2541,7 +2541,16 @@ var domains = {
   "amazonaws.com":1,
   "packagist.org":1,
   "dd-wrt.com":1,
-  "bintray.com":1
+  "bintray.com":1,
+  "apache.org":1,
+  "dropboxusercontent.com":1,
+  "hupso.com":1,
+  "jwpcdn.com":1,
+  "php.net":1,
+  "linode.com":1,
+  "gandi.net":1,
+  "wanqu.co":1,
+  "mariadb.org":1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
